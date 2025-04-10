@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "user": {
+    "id": "1",
+    "balance": 1234.56,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "profile_image": "https://example.com/profile.jpg",
+    "created_at": "2024-03-10T12:34:56Z",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "messages": [
+    {
+      "author": "Bobbie",
+      "msg": "You owe me $300",
+      "datetime": "3/6",
+      "id": "1",
+      "user_id": "1"
+    },
+    {
+      "author": "Bobbie",
+      "msg": "Just paid you for dinner",
+      "datetime": "3/3",
+      "id": "1",
+      "user_id": "1"
+    },
+    {
+      "author": "Bobbie",
+      "msg": "Hello",
+      "datetime": "3/1",
+      "id": "1",
+      "user_id": "1"
+    },
+    {
+      "author": "Aiden",
+      "msg": "I can't pay you right now, sorry",
+      "datetime": "3/6",
+      "id": "2",
+      "user_id": "2"
+    },
+    {
+      "author": "Charles",
+      "msg": "I have medical bills",
+      "datetime": "3/6",
+      "id": "3",
+      "user_id": "3"
+    },
+    {
+      "author": "Bill",
+      "msg": "Can I borrow some money?",
+      "datetime": "3/2",
+      "id": "4",
+      "user_id": "4"
+    },
+    {
+      "author": "Mother",
+      "msg": "I need some money now",
+      "datetime": "3/1",
+      "id": "5",
+      "user_id": "5"
+    }
+  ]
+}
